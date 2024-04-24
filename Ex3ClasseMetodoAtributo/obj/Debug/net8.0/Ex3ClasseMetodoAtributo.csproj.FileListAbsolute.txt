@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\bin\Debug\net8.0\Ex3ClasseMetodoAtributo.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\bin\Debug\net8.0\Ex3ClasseMetodoAtributo.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\bin\Debug\net8.0\Ex3ClasseMetodoAtributo.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\bin\Debug\net8.0\Ex3ClasseMetodoAtributo.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\bin\Debug\net8.0\Ex3ClasseMetodoAtributo.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\Ex3ClasseMetodoAtributo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\Ex3ClasseMetodoAtributo.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\Ex3ClasseMetodoAtributo.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\Ex3ClasseMetodoAtributo.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\Ex3ClasseMetodoAtributo.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\refint\Ex3ClasseMetodoAtributo.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\Ex3ClasseMetodoAtributo.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\Ex3ClasseMetodoAtributo.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Ex3ClasseMetodoAtributo\obj\Debug\net8.0\ref\Ex3ClasseMetodoAtributo.dll

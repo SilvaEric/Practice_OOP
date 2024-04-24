@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\bin\Debug\net8.0\PrecoProdutos.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\bin\Debug\net8.0\PrecoProdutos.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\bin\Debug\net8.0\PrecoProdutos.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\bin\Debug\net8.0\PrecoProdutos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\bin\Debug\net8.0\PrecoProdutos.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\PrecoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\PrecoProdutos.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\PrecoProdutos.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\PrecoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\PrecoProdutos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\refint\PrecoProdutos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\PrecoProdutos.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\PrecoProdutos.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\PrecoProdutos\obj\Debug\net8.0\ref\PrecoProdutos.dll

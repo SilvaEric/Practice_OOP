@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\bin\Debug\net8.0\ConjuntosProposto.exe
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\bin\Debug\net8.0\ConjuntosProposto.deps.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\bin\Debug\net8.0\ConjuntosProposto.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\bin\Debug\net8.0\ConjuntosProposto.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\bin\Debug\net8.0\ConjuntosProposto.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ConjuntosProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ConjuntosProposto.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ConjuntosProposto.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ConjuntosProposto.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ConjuntosProposto.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\refint\ConjuntosProposto.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ConjuntosProposto.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ConjuntosProposto.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosProposto\obj\Debug\net8.0\ref\ConjuntosProposto.dll

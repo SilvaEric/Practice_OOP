@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\bin\Debug\net8.0\DadosVotacao.exe
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\bin\Debug\net8.0\DadosVotacao.deps.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\bin\Debug\net8.0\DadosVotacao.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\bin\Debug\net8.0\DadosVotacao.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\bin\Debug\net8.0\DadosVotacao.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\DadosVotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\DadosVotacao.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\DadosVotacao.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\DadosVotacao.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\DadosVotacao.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\refint\DadosVotacao.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\DadosVotacao.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\DadosVotacao.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\DadosVotacao\obj\Debug\net8.0\ref\DadosVotacao.dll

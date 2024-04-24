@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\bin\Debug\net8.0\ExVetores.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\bin\Debug\net8.0\ExVetores.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\bin\Debug\net8.0\ExVetores.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\bin\Debug\net8.0\ExVetores.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\bin\Debug\net8.0\ExVetores.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ExVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ExVetores.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ExVetores.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ExVetores.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ExVetores.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\refint\ExVetores.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ExVetores.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ExVetores.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExVetores\obj\Debug\net8.0\ref\ExVetores.dll

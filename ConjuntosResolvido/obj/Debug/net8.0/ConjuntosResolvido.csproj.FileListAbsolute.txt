@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\bin\Debug\net8.0\ConjuntosResolvido.exe
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\bin\Debug\net8.0\ConjuntosResolvido.deps.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\bin\Debug\net8.0\ConjuntosResolvido.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\bin\Debug\net8.0\ConjuntosResolvido.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\bin\Debug\net8.0\ConjuntosResolvido.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ConjuntosResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ConjuntosResolvido.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ConjuntosResolvido.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ConjuntosResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ConjuntosResolvido.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\refint\ConjuntosResolvido.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ConjuntosResolvido.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ConjuntosResolvido.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ConjuntosResolvido\obj\Debug\net8.0\ref\ConjuntosResolvido.dll

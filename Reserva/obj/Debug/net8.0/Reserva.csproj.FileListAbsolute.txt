@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\bin\Debug\net8.0\Reserva.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\bin\Debug\net8.0\Reserva.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\bin\Debug\net8.0\Reserva.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\bin\Debug\net8.0\Reserva.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\bin\Debug\net8.0\Reserva.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\Reserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\Reserva.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\Reserva.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\Reserva.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\Reserva.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\refint\Reserva.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\Reserva.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\Reserva.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Reserva\obj\Debug\net8.0\ref\Reserva.dll

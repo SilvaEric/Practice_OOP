@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\bin\Debug\net8.0\PayPalService.exe
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\bin\Debug\net8.0\PayPalService.deps.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\bin\Debug\net8.0\PayPalService.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\bin\Debug\net8.0\PayPalService.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\bin\Debug\net8.0\PayPalService.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\PayPalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\PayPalService.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\PayPalService.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\PayPalService.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\PayPalService.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\refint\PayPalService.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\PayPalService.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\PayPalService.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\PayPalService\obj\Debug\net8.0\ref\PayPalService.dll

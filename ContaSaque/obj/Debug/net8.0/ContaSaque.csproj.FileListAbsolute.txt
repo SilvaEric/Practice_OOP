@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\bin\Debug\net8.0\ContaSaque.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\bin\Debug\net8.0\ContaSaque.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\bin\Debug\net8.0\ContaSaque.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\bin\Debug\net8.0\ContaSaque.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\bin\Debug\net8.0\ContaSaque.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ContaSaque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ContaSaque.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ContaSaque.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ContaSaque.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ContaSaque.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\refint\ContaSaque.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ContaSaque.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ContaSaque.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ContaSaque\obj\Debug\net8.0\ref\ContaSaque.dll

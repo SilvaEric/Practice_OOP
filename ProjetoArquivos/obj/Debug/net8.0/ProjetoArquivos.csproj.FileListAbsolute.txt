@@ -1,0 +1,28 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\refint\ProjetoArquivos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoArquivos\obj\Debug\net8.0\ref\ProjetoArquivos.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.exe
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.deps.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\bin\Debug\net8.0\ProjetoArquivos.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\refint\ProjetoArquivos.dll
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.pdb
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ProjetoArquivos.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ProjetoArquivos\obj\Debug\net8.0\ref\ProjetoArquivos.dll

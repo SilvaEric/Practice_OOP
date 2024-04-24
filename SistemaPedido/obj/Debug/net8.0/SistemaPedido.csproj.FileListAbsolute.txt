@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\bin\Debug\net8.0\SistemaPedido.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\bin\Debug\net8.0\SistemaPedido.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\bin\Debug\net8.0\SistemaPedido.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\bin\Debug\net8.0\SistemaPedido.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\bin\Debug\net8.0\SistemaPedido.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\SistemaPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\SistemaPedido.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\SistemaPedido.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\SistemaPedido.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\SistemaPedido.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\refint\SistemaPedido.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\SistemaPedido.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\SistemaPedido.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\SistemaPedido\obj\Debug\net8.0\ref\SistemaPedido.dll

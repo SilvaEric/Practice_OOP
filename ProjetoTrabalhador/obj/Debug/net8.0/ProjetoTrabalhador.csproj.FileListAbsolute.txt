@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\bin\Debug\net8.0\ProjetoTrabalhador.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\bin\Debug\net8.0\ProjetoTrabalhador.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\bin\Debug\net8.0\ProjetoTrabalhador.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\bin\Debug\net8.0\ProjetoTrabalhador.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\bin\Debug\net8.0\ProjetoTrabalhador.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ProjetoTrabalhador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ProjetoTrabalhador.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ProjetoTrabalhador.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ProjetoTrabalhador.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ProjetoTrabalhador.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\refint\ProjetoTrabalhador.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ProjetoTrabalhador.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ProjetoTrabalhador.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ProjetoTrabalhador\obj\Debug\net8.0\ref\ProjetoTrabalhador.dll

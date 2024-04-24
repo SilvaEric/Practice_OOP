@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\bin\Debug\net8.0\EX - Classe_Atributo_Metodo.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\bin\Debug\net8.0\EX - Classe_Atributo_Metodo.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\bin\Debug\net8.0\EX - Classe_Atributo_Metodo.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\bin\Debug\net8.0\EX - Classe_Atributo_Metodo.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\bin\Debug\net8.0\EX - Classe_Atributo_Metodo.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\EX - Classe_Atributo_Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\EX - Classe_Atributo_Metodo.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\EX - Classe_Atributo_Metodo.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\EX - Classe_Atributo_Metodo.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\EX - Classe_Atributo_Metodo.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\refint\EX - Classe_Atributo_Metodo.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\EX - Classe_Atributo_Metodo.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\EX - Classe_Atributo_Metodo.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\EX - Classe_Atributo_Metodo\obj\Debug\net8.0\ref\EX - Classe_Atributo_Metodo.dll

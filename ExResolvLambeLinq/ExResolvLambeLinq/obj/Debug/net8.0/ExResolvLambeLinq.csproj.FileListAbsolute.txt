@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\bin\Debug\net8.0\ExResolvLambeLinq.exe
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\bin\Debug\net8.0\ExResolvLambeLinq.deps.json
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\bin\Debug\net8.0\ExResolvLambeLinq.runtimeconfig.json
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\bin\Debug\net8.0\ExResolvLambeLinq.dll
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\bin\Debug\net8.0\ExResolvLambeLinq.pdb
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ExResolvLambeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ExResolvLambeLinq.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ExResolvLambeLinq.AssemblyInfo.cs
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ExResolvLambeLinq.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ExResolvLambeLinq.dll
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\refint\ExResolvLambeLinq.dll
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ExResolvLambeLinq.pdb
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ExResolvLambeLinq.genruntimeconfig.cache
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExResolvLambeLinq\ExResolvLambeLinq\obj\Debug\net8.0\ref\ExResolvLambeLinq.dll

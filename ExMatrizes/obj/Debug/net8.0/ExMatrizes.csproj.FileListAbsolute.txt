@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\bin\Debug\net8.0\ExMatrizes.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\bin\Debug\net8.0\ExMatrizes.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\bin\Debug\net8.0\ExMatrizes.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\bin\Debug\net8.0\ExMatrizes.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\bin\Debug\net8.0\ExMatrizes.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ExMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ExMatrizes.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ExMatrizes.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ExMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ExMatrizes.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\refint\ExMatrizes.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ExMatrizes.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ExMatrizes.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExMatrizes\obj\Debug\net8.0\ref\ExMatrizes.dll

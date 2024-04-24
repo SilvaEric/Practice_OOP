@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\bin\Debug\net8.0\ConstrutoresThisSobrecarga.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\bin\Debug\net8.0\ConstrutoresThisSobrecarga.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\bin\Debug\net8.0\ConstrutoresThisSobrecarga.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\bin\Debug\net8.0\ConstrutoresThisSobrecarga.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\bin\Debug\net8.0\ConstrutoresThisSobrecarga.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ConstrutoresThisSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ConstrutoresThisSobrecarga.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ConstrutoresThisSobrecarga.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ConstrutoresThisSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ConstrutoresThisSobrecarga.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\refint\ConstrutoresThisSobrecarga.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ConstrutoresThisSobrecarga.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ConstrutoresThisSobrecarga.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ConstrutoresThisSobrecarga\obj\Debug\net8.0\ref\ConstrutoresThisSobrecarga.dll

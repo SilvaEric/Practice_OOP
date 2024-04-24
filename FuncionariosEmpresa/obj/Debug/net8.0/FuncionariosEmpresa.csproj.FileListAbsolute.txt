@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\bin\Debug\net8.0\FuncionariosEmpresa.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\bin\Debug\net8.0\FuncionariosEmpresa.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\bin\Debug\net8.0\FuncionariosEmpresa.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\bin\Debug\net8.0\FuncionariosEmpresa.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\bin\Debug\net8.0\FuncionariosEmpresa.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\FuncionariosEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\FuncionariosEmpresa.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\FuncionariosEmpresa.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\FuncionariosEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\FuncionariosEmpresa.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\refint\FuncionariosEmpresa.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\FuncionariosEmpresa.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\FuncionariosEmpresa.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\FuncionariosEmpresa\obj\Debug\net8.0\ref\FuncionariosEmpresa.dll

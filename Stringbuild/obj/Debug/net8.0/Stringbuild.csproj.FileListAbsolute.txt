@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\bin\Debug\net8.0\Stringbuild.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\bin\Debug\net8.0\Stringbuild.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\bin\Debug\net8.0\Stringbuild.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\bin\Debug\net8.0\Stringbuild.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\bin\Debug\net8.0\Stringbuild.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\Stringbuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\Stringbuild.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\Stringbuild.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\Stringbuild.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\Stringbuild.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\refint\Stringbuild.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\Stringbuild.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\Stringbuild.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\Stringbuild\obj\Debug\net8.0\ref\Stringbuild.dll

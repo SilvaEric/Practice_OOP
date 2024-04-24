@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\bin\Debug\net8.0\ExLinqLambDel.exe
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\bin\Debug\net8.0\ExLinqLambDel.deps.json
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\bin\Debug\net8.0\ExLinqLambDel.runtimeconfig.json
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\bin\Debug\net8.0\ExLinqLambDel.dll
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\bin\Debug\net8.0\ExLinqLambDel.pdb
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ExLinqLambDel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ExLinqLambDel.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ExLinqLambDel.AssemblyInfo.cs
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ExLinqLambDel.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ExLinqLambDel.dll
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\refint\ExLinqLambDel.dll
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ExLinqLambDel.pdb
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ExLinqLambDel.genruntimeconfig.cache
+C:\Users\Eric Silva\OneDrive\Desktop\DesenvolvimentoERIC\ProjetosC#\C#-OOP\ExLinqLambDel\obj\Debug\net8.0\ref\ExLinqLambDel.dll

@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\bin\Debug\net8.0\AulaMembrosEstaticos.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\bin\Debug\net8.0\AulaMembrosEstaticos.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\bin\Debug\net8.0\AulaMembrosEstaticos.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\bin\Debug\net8.0\AulaMembrosEstaticos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\bin\Debug\net8.0\AulaMembrosEstaticos.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\AulaMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\AulaMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\AulaMembrosEstaticos.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\AulaMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\AulaMembrosEstaticos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\refint\AulaMembrosEstaticos.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\AulaMembrosEstaticos.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\AulaMembrosEstaticos.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\AulaMembrosEstaticos\obj\Debug\net8.0\ref\AulaMembrosEstaticos.dll

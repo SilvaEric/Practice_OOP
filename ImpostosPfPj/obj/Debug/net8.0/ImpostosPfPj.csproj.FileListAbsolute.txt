@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\bin\Debug\net8.0\ImpostosPfPj.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\bin\Debug\net8.0\ImpostosPfPj.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\bin\Debug\net8.0\ImpostosPfPj.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\bin\Debug\net8.0\ImpostosPfPj.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\bin\Debug\net8.0\ImpostosPfPj.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ImpostosPfPj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ImpostosPfPj.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ImpostosPfPj.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ImpostosPfPj.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ImpostosPfPj.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\refint\ImpostosPfPj.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ImpostosPfPj.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ImpostosPfPj.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ImpostosPfPj\obj\Debug\net8.0\ref\ImpostosPfPj.dll

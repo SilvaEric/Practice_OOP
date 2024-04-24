@@ -1,0 +1,14 @@
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\bin\Debug\net8.0\ExConstrutoresThisSobrecarga.exe
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\bin\Debug\net8.0\ExConstrutoresThisSobrecarga.deps.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\bin\Debug\net8.0\ExConstrutoresThisSobrecarga.runtimeconfig.json
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\bin\Debug\net8.0\ExConstrutoresThisSobrecarga.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\bin\Debug\net8.0\ExConstrutoresThisSobrecarga.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ExConstrutoresThisSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ExConstrutoresThisSobrecarga.AssemblyInfoInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ExConstrutoresThisSobrecarga.AssemblyInfo.cs
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ExConstrutoresThisSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ExConstrutoresThisSobrecarga.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\refint\ExConstrutoresThisSobrecarga.dll
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ExConstrutoresThisSobrecarga.pdb
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ExConstrutoresThisSobrecarga.genruntimeconfig.cache
+C:\Users\Eric Silva\Desktop\Desenvolvimento ERIC\Projetos C#\C# -OOP\ExConstrutoresThisSobrecarga\obj\Debug\net8.0\ref\ExConstrutoresThisSobrecarga.dll
